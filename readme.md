@@ -440,17 +440,9 @@ netstat -ano | findstr :5000
 
 # Change port in docker-compose.yml
 ports:
-  - "5001:5000"
+  - "5000:5000"
 ```
 
-
-## 📝 License
-
-MIT License
-
-## 👥 Contributors
-
-- Your Name - Initial work
 
 ## 🔗 References
 
@@ -460,3 +452,4 @@ MIT License
 
 ## Youtube Video
 - (https://youtu.be/TU7RK5sRyAE)
+
